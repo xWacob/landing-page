@@ -1,0 +1,68 @@
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    /* make font white eventually */
+}
+
+.hero{
+    display: flex;
+}
+
+.text-button{
+    display: flex;
+    flex-direction: column;
+}
+
+.rand-info{
+    display: flex;
+    flex-direction: column;
+}
+
+.illustration{
+    display: flex;
+}
+
+.blue-box{
+    display: flex;
+    flex-direction: column;
+}
+
+.quote{
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-content{
+    display: flex;
+}
+
+.credits{
+    display: flex;
+}
+
+.sign-up-bottom{
+    display: flex;
+}
+
+.call-to-action{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer{
+    display: flex;
+}
+
