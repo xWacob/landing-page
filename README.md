@@ -1,1 +1,2 @@
 # landing-page
+This is to practice making a website through the odin project. It allows me to follow a basic guideline to build my own website from scratch. It is mainly being used as an initial website and for future websites I may and likely will make.
