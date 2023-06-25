@@ -203,3 +203,51 @@ a{
     height: 35px;
     border-radius: 9px;
 }
+
+/* color-font.html styles ||| separate from index.html but in this file */
+
+.color-header{
+    color:#3882F6;
+    font-size: 36px;
+    font-weight: 900;
+    display: flex;
+    flex: 1 0 100;
+    margin: 15px;
+    align-items: center ;
+}
+
+.top-content{
+    background-color: #1F2937;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    color: #F9FAF8;
+    justify-content: space-between;
+    padding: 24px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.dark-background .hex-dark-color{
+    font-size: 24px;
+    font-weight: 800;
+    margin:0;
+} 
+
+.hero-main-text .main-text-style{
+    font-size: 48px;
+    font-weight: 900;
+    margin:0;
+}
+
+.hero-secondary-text .secondary-text-style{
+    font-size: 18px;
+    font-weight: 100;
+    margin:0;
+}
+
+.header-logo .logo-style{
+    font-size: 24px;
+    font-weight: 900;
+    margin: 0;
+}
