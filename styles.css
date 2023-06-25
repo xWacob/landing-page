@@ -12,7 +12,7 @@ body{
     background-color: #1F2937;
     justify-content: space-evenly;
     align-items: center;
-    color: white;
+    color: #F9FAF8;
     font-size: 24px;
     font-weight: 800;
     padding: 0 12px;
@@ -30,7 +30,7 @@ ul{
 a{
     text-decoration: none;
     /* make font white eventually */
-    color: white;
+    color: #E5E7EB;
     font-size: 16px;
     font-weight: 300;
 }
@@ -38,7 +38,7 @@ a{
 .hero{
     display: flex;
     background-color: #1F2937;
-    color: white;
+    color: #F9FAF8;
     font-size: 32px;
     font-weight: 800;
     justify-content: center;
@@ -56,12 +56,13 @@ a{
 .rand-info{
     display: flex;
     flex-direction: column;
-    font-size: 24px;
+    font-size: 36px;
     justify-content: flex-start;
     align-items: center;
     flex: 1;
     padding: 24px;
     font-weight: 900;
+    color: #1F2937;
 }
 
 .illustration{
@@ -82,7 +83,7 @@ a{
 .quote{
     display: flex;
     flex-direction: column;
-    background-color: rgb(187, 187, 187);
+    background-color: #E5E7EB;
     flex: 1;
     padding: 60px;
     justify-content: center;
@@ -92,7 +93,8 @@ a{
 .quote-content{ 
     display: flex;
     width: 600px;
-    font-size: 28px;
+    font-size: 36px;
+    color: #1F2937;
 }
 
 .credits{
@@ -126,13 +128,13 @@ a{
 .footer{
     display: flex;
     background-color: #1F2937;
-    flex: 1;
+    flex: 1 0 70;
     height: 70px;
     justify-content: center;
     align-items: center;
     color: white;
     font-size: 16px;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 
@@ -140,7 +142,7 @@ a{
 .sign-top-button{
     max-width: 75px;
     max-height: 40px;
-    background-color: rgb(0, 89, 255);
+    background-color: #3882F6;
     color: white;
     padding: 4px;
     border-radius: 8px;
