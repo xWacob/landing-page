@@ -1,5 +1,5 @@
 body{
-    font-family: Roboto;
+    font-family: roboto;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -250,4 +250,50 @@ a{
     font-size: 24px;
     font-weight: 900;
     margin: 0;
+}
+
+.middle-content{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 24px;
+    color: #1F2937;
+    font-weight: 600;
+}
+
+.button-call2a-color .rectangle-color{
+    font-size: 36px;
+    color: #3882F6;
+    font-weight: 700;
+    margin: 0;
+}
+
+.information-header-text .info-header-style{
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.bottom-content{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 24px;
+    color: #1F2937;
+    font-weight: 600;
+    background-color: #E5E7EB;
+}
+
+.quote-section-color .q-sect-back{
+    font-size: 28px;
+    margin: 0;
+}
+
+.quote-text-style .italic{
+    font-size: 36px;
+    font-weight: 300;
+    margin: 0;
+    font-style: italic;
 }
